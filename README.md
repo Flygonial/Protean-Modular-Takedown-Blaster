@@ -22,7 +22,7 @@ Currently supported configurations include:
 * 4-to-1 geared pusher mechanism
 * Thumbscrew-secured and notch-locking rod stocks
 * Fixed battery stock in short and extended lengths.
-* Buffer tube battery stock (refer to the Gryphon for stock files)
+* Buffer tube battery stock (refer to [the Gryphon](https://github.com/Flygonial/The-Gryphon-Foam-Dart-Blaster) for stock files)
 
 Configurations in the open beta include:
 
