@@ -7,7 +7,7 @@
 
 [Open Beta Fileset](https://drive.google.com/drive/folders/14amASFof2dJ1SP2ZICcWQEFaAztCsq6B?usp=sharing) (not all components complete)
 
-Buy [hardware](https://drive.google.com/drive/folders/14amASFof2dJ1SP2ZICcWQEFaAztCsq6B?usp=sharing) or [printed parts](https://silverfoxindustries.shop/collections/blasters/products/protean-by-flygonial) at SilverFoxIndustries
+Buy [hardware](https://silverfoxindustries.shop/collections/hardware/products/protean-by-flygonial-beta-hardware-kit) or [printed parts](https://silverfoxindustries.shop/collections/blasters/products/protean-by-flygonial) at SilverFoxIndustries
 
 
 A spiritual successor to the Gryphon, though not a replacement. Leaning further to the direction of modularity, Protean is a highly-configurable, conventional-layout mag-fed flywheel blaster. 7 takedown pins are all that stands between you and being capable of swapping flywheel cages, magwells, stocks, and pusher mechanisms with no additional tools. Not only does this make adjusting the blaster for different game velocity caps trivial, it also makes it possible to swap configurations even between rounds of an event, and in some cases replace broken parts. 
