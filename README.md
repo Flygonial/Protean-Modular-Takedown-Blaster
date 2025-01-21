@@ -5,7 +5,7 @@
 
 [FAQ](https://docs.google.com/document/d/1G_vJBDIBbMLpgBB6LufqcZHc96QY-UkM5tN8APzyfT4/edit?usp=sharing)
 
-[Open Beta Fileset](https://drive.google.com/drive/folders/14amASFof2dJ1SP2ZICcWQEFaAztCsq6B?usp=sharing) (not all components complete)
+[Open Beta Fileset](https://drive.google.com/drive/folders/14amASFof2dJ1SP2ZICcWQEFaAztCsq6B?usp=sharing) (not all components complete, currently deprecated)
 
 Buy [hardware](https://silverfoxindustries.shop/collections/hardware/products/protean-by-flygonial-beta-hardware-kit) or [printed parts](https://silverfoxindustries.shop/collections/blasters/products/protean-by-flygonial) at SilverFoxIndustries
 
